@@ -20,6 +20,7 @@ int main()
 	cout << "tWelcome to Guess My Number\n\n";
 
 	//create the game loop
+
 	do
 	{
 		cout << "Enter a guess: ";
